@@ -3,6 +3,7 @@ TouchDesigner experiment: Real-time Speech-to-Text using Microsoft Azure, to sea
 
 A stable internet connection is required, as this project does online speech recognition via Azure and constantly fetches image search results.
 
+
 <pre><code>
 maxvanleeuwen.com
 twitter	@maksvanleeuwen
@@ -11,6 +12,7 @@ ig 	@max.van.leeuwen
 Dependencies:
 	Azure Cognitive Services 	https://pypi.org/project/azure-cognitiveservices-speech/
 	Selenium 			https://pypi.org/project/selenium/
+	Internet Archive 		https://pypi.org/project/internetarchive/
 
 Setup:
 	Enter your Azure Key and Region in the speechRecognition script.
