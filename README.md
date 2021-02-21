@@ -13,7 +13,7 @@ ig 		@max.van.leeuwen
 
 Dependencies:
 	Azure Cognitive Services 	https://pypi.org/project/azure-cognitiveservices-speech/
-	Selenium 					https://pypi.org/project/selenium/
+	Selenium 			https://pypi.org/project/selenium/
 
 Setup:
 	Enter your Azure Key and Region in the speechRecognition script.
