@@ -3,11 +3,9 @@ TouchDesigner experiment: Real-time Speech-to-Text using Microsoft Azure, to sea
 
 
 <pre><code>
-Max van Leeuwen
-
 maxvanleeuwen.com
-twitter 	@maksvanleeuwen
-ig 		@max.van.leeuwen
+twitter @maksvanleeuwen
+ig 	@max.van.leeuwen
 
 
 
