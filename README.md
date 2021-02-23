@@ -3,6 +3,9 @@ TouchDesigner experiment: Real-time Speech-to-Text using Microsoft Azure, to sea
 
 A stable internet connection is required, as this project does online speech recognition via Azure and constantly fetches image search results.
 
+Preview: see this tweet
+https://twitter.com/maksvanleeuwen/status/1364000549222420481
+
 
 <pre><code>
 maxvanleeuwen.com
